@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Timer Tracker</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="timer_tab">Timer</string>
+    <string name="history_tab">History</string>
+    <string name="chart_tab">Chart</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_hint">Title</string>
+    <string name="desciption_hint">Description</string>
+    <string name="add_category">Add Your Category</string>
+    <string name="edit_item">Edit Category</string>
+    <string name="delete_item">Delete</string>
+    <string name="no_data_available">Currently there is no timer data available to show</string>
+    <string name="get_started_by_creating_a_new_category">Get Started By Creating A New Category</string>
+</resources>
