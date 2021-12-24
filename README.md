@@ -11,6 +11,7 @@ Tehát mérhetjük, hogy mennyi időt töltünk tényleges intenzív munkával, 
 
 Ezen felül van benne Dark és Ligth mód.
 
+
 Mobil- és webes szoftverek tantárgy házi feladatára adtam be, melyre 100%-os értékelést kaptam.
 
 
